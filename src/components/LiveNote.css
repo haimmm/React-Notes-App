@@ -1,0 +1,32 @@
+.noteContainer{
+    height:330px;
+    width: 330px; 
+    padding:40px 30px 10px 22px;
+    font-size: 1.3rem;
+    overflow-wrap: break-word;
+    background-image: url("../images/stickynote.png");
+    background-repeat:no-repeat;
+    background-size:contain;
+}
+
+.contentContainer{
+    display: "flex";
+    flex-direction:"column";
+    transform: rotate(-3deg);
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.date{
+    color:rgb(104, 102, 102);
+    margin:5px 0;
+    font-size: 1rem;
+}
+
+.title{
+    font-size: 1.7rem;
+    font-weight: bold;
+    height: 2rem;
+    overflow: hidden;
+}

@@ -1,0 +1,30 @@
+.archiveTitle{
+    text-align: center;
+    border-bottom: 2px solid grey;
+}
+
+h3{
+    margin: 5px 0;
+}
+
+ul{
+    list-style-type:none;
+    padding: 0;
+}
+
+li{
+    margin: 5px;
+    border: 1px solid #f8ed77;
+}
+
+li:hover{
+    border:1px solid grey;
+}
+
+h4{
+    margin: 0;
+}
+
+p{
+    margin: 0;
+}

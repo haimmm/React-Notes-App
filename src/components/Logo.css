@@ -1,0 +1,11 @@
+.logo{
+    display:inline-block;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Lexend Deca', sans-serif;
+    font-family: 'Salsa', cursive;
+    font-size: 4.5rem;
+    margin: 50px;
+    padding: 0;
+    text-shadow: 2px 2px 2px #153B08;
+    color: #1D7CD8;
+}
